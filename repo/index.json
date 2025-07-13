@@ -1,0 +1,11 @@
+{
+  "extensions": [
+    {
+      "name": "Remanga",
+      "package": "remanga",
+      "version": "1.4.99",
+      "description": "Расширение для чтения манги с Remanga.org",
+      "icon": "remanga/icon.png"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Remanga",
+  "version": "1.4.99",
+  "description": "Расширение для Remanga.org",
+  "class": "RemangaSource",
+  "package": "remanga",
+  "icon": "icon.png",
+  "author": "ChatGPT",
+  "language": "ru",
+  "configurable": false,
+  "updateUrl": "",
+  "sourceUrl": "https://remanga.org"
+}
